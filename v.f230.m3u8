@@ -4,7 +4,7 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="https://www.zealer.com/Vod/Decrypt?edk=CiAGc8bntt7ReZAVLcwPSMyIivwZGWJtKb7%2Bgeh6rmFjmhCO08TAChiaoOvUBCokNmE2ZjU5MzktZmIxNC00YzExLTgzNWYtNjJlNjY4OGE4MTU2&fileId=5285890786805388985&keySource=VodBuildInKMS",IV=0x00000000000000000000000000000000
 #EXTINF:1.958333,
-http://1254235226.vod2.myqcloud.com/2a6c5067vodtransgzp1254235226/7fbb46a55285890786805388985/drm/v.f230.ts?start=0&end=658575000&type=mpegts&t=5c933b6e&exper=300&us=hdr6yv5bec&sign=a020e2f1f1c7dc52d99346dff9343ac9
+http://1254235226.vod2.myqcloud.com/2a6c5067vodtransgzp1254235226/7fbb46a55285890786805388985/drm/v.f230.ts?start=0&end=6585750&type=mpegts&t=5c933b6e&exper=300&us=hdr6yv5bec&sign=a020e2f1f1c7dc52d99346dff9343ac9
 #EXT-X-KEY:METHOD=AES-128,URI="https://www.zealer.com/Vod/Decrypt?edk=CiAGc8bntt7ReZAVLcwPSMyIivwZGWJtKb7%2Bgeh6rmFjmhCO08TAChiaoOvUBCokNmE2ZjU5MzktZmIxNC00YzExLTgzNWYtNjJlNjY4OGE4MTU2&fileId=5285890786805388985&keySource=VodBuildInKMS",IV=0x00000000000000000000000000000000
 #EXTINF:1.833333,
 http://1254235226.vod2.myqcloud.com/2a6c5067vodtransgzp1254235226/7fbb46a55285890786805388985/drm/v.f230.ts?start=658576&end=888319&type=mpegts&t=5c933b6e&exper=300&us=hdr6yv5bec&sign=a020e2f1f1c7dc52d99346dff9343ac9
