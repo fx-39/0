@@ -4,5 +4,5 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="https://www.zealer.com/Vod/Decrypt?edk=CiAGc8bntt7ReZAVLcwPSMyIivwZGWJtKb7%2Bgeh6rmFjmhCO08TAChiaoOvUBCokNmE2ZjU5MzktZmIxNC00YzExLTgzNWYtNjJlNjY4OGE4MTU2&fileId=5285890786805388985&keySource=VodBuildInKMS",IV=0x00000000000000000000000000000000
 #EXTINF:1.958333,
-v.f230.ts?start=0&end=6585750000&type=mpegts&t=5c932cb0&exper=300&us=unu8dzbm5o&sign=b5d9b8eb1026d07944456c981f356f31
+v.f230.ts?start=0&end=658575&type=mpegts&t=5c932cb0&exper=300&us=unu8dzbm5o&sign=b5d9b8eb1026d07944456c981f356f31
 #EXT-X-ENDLIST
